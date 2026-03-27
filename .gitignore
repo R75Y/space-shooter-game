@@ -1,0 +1,12 @@
+# Claude Code settings
+.claude/
+
+# macOS metadata
+.DS_Store
+**/.DS_Store
+
+# Aseprite source files (binary, not needed to play)
+**/*.ase
+
+# Node
+node_modules/
